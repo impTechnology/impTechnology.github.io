@@ -1,5 +1,5 @@
 site_name: IMP Documentation
-site_url: https://imptechnology.github.io/
+site_url: https://impTechnology.github.io/
 
 nav:
     - Home: index.md
