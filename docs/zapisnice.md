@@ -39,6 +39,7 @@ Prebratie požiadaviek na tímový projekt, oboznámenie sa s problematikou a ur
 **prof. Ing. Ľubica Stuchlíková**<br>
 **Bc. Miroslav Rafaj**<br>
 **Bc. Lenka Šubová**<br>
+**Bc. Katarína Poláčiková** (ospravedlnená neúčasť)<br>
 **Bc. Daniel Janík**<br>
 **Bc. Milan Kubacka**
 
