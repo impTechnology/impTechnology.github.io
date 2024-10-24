@@ -43,7 +43,7 @@ Prebratie požiadaviek na tímový projekt, oboznámenie sa s problematikou a ur
 **Bc. Daniel Janík**<br>
 **Bc. Milan Kubacka**
 
-## <span style="color:#AB47BD">Zápis vypracovala:</span>
+## <span style="color:#AB47BD">Zápis vypracoval:</span>
 
 **Bc. Daniel Janík**
 
@@ -60,3 +60,39 @@ naštudovanie si ich príslušných dokumentácií, návrh miesta, z ktorého by
 • testovanie edukačných hier zo série Impérium kremíka<br>
 • vytvorenie tímu na MS Teams<br>
 • návrh miesta pre stiahnutie hier<br>
+
+# Zápisnica č.3
+
+**Dátum: 16.10.2024**<br>
+**Čas: 12:00 – 13:00**
+
+## <span style="color:#AB47BD">Prítomní:</span>
+
+**prof. Ing. Ľubica Stuchlíková**<br>
+**PhD., Ing. Matej Matuš**<br>
+**Bc. Miroslav Rafaj**<br>
+**Bc. Lenka Šubová**<br>
+**Bc. Katarína Poláčiková**<br>
+**Bc. Daniel Janík**<br>
+**Bc. Milan Kubacka** (ospravedlnená neúčasť)<br>
+**Samuel Frťala** - externý člen
+
+## <span style="color:#AB47BD">Zápis vypracovala:</span>
+
+**Bc. Katarína Poláčiková**
+
+## <span style="color:#AB47BD">Obsah stretnutia:</span>
+
+Prebrali sme naše doterajšie postrehy z hrania a testovania existujúcich hier zo sady Impérium kremíka a aktuálny stav projektu. Dohodli sme sa na vytvorení web stránky so zoznamom hier, ich umiestnením a popisom kvôli potrebe katalogizovať pre jednoduchšie hľadanie konkrétnych hier.
+Dohodli sme sa na otestovaní všetkých doteraz vytvorených edukačných hrách. Po odohraní každej hry je potrebné vytvoriť správu o aktuálnom stave hry, spísať jej nedostatky a nájdené chyby - k tomuto slúži ako pomôcka dokument s chybami nájdenými stredoškolákmi po testovaní.
+Dohodli sme sa na preštudovaní vzorových prác z minulých rokov, kvôli vedomosti o rozsahu a štruktúre našej práce.
+Upresnili sme si cieľ našej práce - dokončenie existujúcich hier a vytvorenie zbierky hier na webovej stránke. Chceme dosiahnúť to, aby čo najviac hier bolo dostupných na hranie a voľne stiahnuteľných pre verejnosť.
+Po dohode s vedúcou práce - prof. Ing. Ľubicou Stuchlíkovou, sme do projektu prizvali externého člena, ktorého bakalárska práca spočíva v tvorbe edukačnej hry s využitím virtuálnej reality. Jeho hra bude zaradená do sady Impérium kremíka.
+Upresnili sme si úlohy na ďalšie 2 týždne, keďže osobné stretnutie sa budúci týždeň ruší - dokončenie testovania edukačných hier a naštudovanie si ich príslušných dokumentácií, tvorba webovej stránky so zoznamom edukačných hier, ktorá bude neskôr slúžiť ako miesto na stiahnutie konkrétnych hier, naštudovanie vzorových prác kvôli štruktúre a rozsahu.
+
+## <span style="color:#AB47BD">Ciele:</span>
+
+-   preštudovanie dokumentácie z testovania hier stredoškolákmi
+-   dokončenie testovania edukačných hier zo série Impérium kremíka
+-   vytvorenie webovej stránky so zoznamom edukačných hier a možnosťou ich stiahnutia
+-   preštudovanie rozsahu a štruktúry vzorových prác
