@@ -2,13 +2,13 @@ site_name: IMP Documentation
 site_url: https://imptechnology.github.io/
 
 nav:
-    - Home: index.md
-    - How to use: howto.md
-    - Zápisnice: zapisnice.md
+  - Home: index.md
+  - How to use: howto.md
+  - Zápisnice: zapisnice.md
 theme:
-    name: material
-    font: false
-    palette:
-        primary: purple
-        accent: pink
-        scheme: slate
+  name: material
+  font: false
+  palette:
+    primary: purple
+    accent: pink
+    scheme: slate
