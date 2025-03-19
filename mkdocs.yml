@@ -12,8 +12,16 @@ theme:
     primary: purple
     accent: pink
     scheme: slate
+<<<<<<< HEAD
 
 markdown_extensions:
   - toc:
       permalink: false
       toc_depth: 2
+=======
+markdown_extensions:
+  - toc:
+      permalink: false
+      toc_depth: 2 # Only show level 1 headers (#)
+      baselevel: 2
+>>>>>>> 9b7b9ed3eefdfbdcbc24e067af03fa7100efdb68

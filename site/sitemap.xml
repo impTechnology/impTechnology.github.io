@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://imptechnology.github.io/</loc>
+<<<<<<< HEAD
          <lastmod>2025-03-19</lastmod>
     </url>
     <url>
@@ -11,5 +12,16 @@
     <url>
          <loc>https://imptechnology.github.io/zapisnice/</loc>
          <lastmod>2025-03-19</lastmod>
+=======
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://imptechnology.github.io/howto/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://imptechnology.github.io/zapisnice/</loc>
+         <lastmod>2024-12-29</lastmod>
+>>>>>>> 9b7b9ed3eefdfbdcbc24e067af03fa7100efdb68
     </url>
 </urlset>
