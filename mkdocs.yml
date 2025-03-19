@@ -12,3 +12,8 @@ theme:
     primary: purple
     accent: pink
     scheme: slate
+
+markdown_extensions:
+  - toc:
+      permalink: false
+      toc_depth: 2
