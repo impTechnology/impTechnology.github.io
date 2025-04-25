@@ -250,3 +250,65 @@ testovanie a dokumentácia - Bc. Lenka Šubová, Bc. Katarína Poláčiková
 -   oprava zvyšných hier
 -   oslovenie tvorcov hry - Ako zložiť počítač, v rámci opravy funkcionality
 -   písanie dokumentácie
+
+## <span style="color:#737373">Zápisnica č.9</span>
+
+**Dátum: 16.04.2025**<br>
+**Čas: 13:00 – 14:00**
+
+### <span style="color:#AB47BD">Prítomní:</span>
+
+**prof. Ing. Ľubica Stuchlíková**<br>
+**Bc. Miroslav Rafaj**<br>
+**Bc. Lenka Šubová**<br>
+**Bc. Katarína Poláčiková**<br>
+**Bc. Daniel Janík**<br>
+
+### <span style="color:#AB47BD">Zápis vypracoval:</span>
+
+**Bc. Katarína Poláčiková**
+
+### <span style="color:#AB47BD">Obsah stretnutia:</span>
+
+V rámci stretnutia sa preberal stav projektu. Pri testovaní hier sme narazili na zásadnú chybu v implementácii jednej z hier, kde je nesprávne implementovaná funkcionalita tlačidla reštart, po ktorom stlačení je hra nehrateľná. Problém bol prebratý na stretnutí s profesorkou Stuchlíkovou, ktorá dala návrh tlačidlo odstrániť.
+Všetky ostatné dostupné hry sú opravené, niektoré ešte treba dotestovať a je potrebné spísať dokumentáciu ku všetkým hrám.
+Funkcionalita vstupnej brány je implementovaná a na vizuálnej stránke sa stále pracuje. Po dokončení ju bude treba otestovať a spísať dokumentáciu k implementácii.
+
+### <span style="color:#AB47BD">Ciele:</span>
+
+-   dokončenie vstupnej brány
+-   testovanie opravených hier
+-   písanie dokumentácie
+
+## <span style="color:#737373">Zápisnica č.10</span>
+
+**Dátum: 23.04.2025**<br>
+**Čas: 13:00 – 14:00**
+
+### <span style="color:#AB47BD">Prítomní:</span>
+
+**prof. Ing. Ľubica Stuchlíková**<br>
+**Bc. Miroslav Rafaj**<br>
+**Bc. Lenka Šubová**<br>
+**Bc. Katarína Poláčiková**<br>
+**Bc. Daniel Janík**<br>
+
+### <span style="color:#AB47BD">Ospravedlnená neúčasť:</span>
+
+**Bc. Daniel Janík**<br>
+
+### <span style="color:#AB47BD">Zápis vypracoval:</span>
+
+**Bc. Katarína Poláčiková**
+
+### <span style="color:#AB47BD">Obsah stretnutia:</span>
+
+Na stretnutí bol preberaný aktuálny stav tímového projektu. Všetky hry boli opravené a otestované. Na dokumentácii k nim sa pracuje.
+Vstupná brána je namodelovaná a jej vizuál bol predstavený zadávateľke projektu pani profesorke Stuchlíkovej. Boli prebraté ďalšie kroky projektu a to integrácia hotových hier v rámci vstupnej brány. Bc. Lenka Šubová a Bc. Katarína Poláčiková majú za úlohu spísať popisy jednotlivých hier, ktoré budú vložené do vstupnej brány spoločne s hrami.
+Celý projekt bude následne vložený na úložisko, ktoré zabezpečí profesorka Ľubica Stuchlíková.
+
+### <span style="color:#AB47BD">Ciele:</span>
+
+-   integrácia hotových hier do vstupnej brány
+-   testovanie vstupnej brány
+-   písanie dokumentácie
