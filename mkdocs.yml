@@ -3,7 +3,6 @@ site_url: https://imptechnology.github.io/
 
 nav:
     - Home: index.md
-    - How to use: howto.md
     - Zápisnice: zapisnice.md
 theme:
     name: material
@@ -14,5 +13,5 @@ theme:
         scheme: slate
 markdown_extensions:
     - toc:
-        permalink: false
-        toc_depth: 2
+          permalink: false
+          toc_depth: 2
